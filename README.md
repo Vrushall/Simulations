@@ -8,6 +8,7 @@
 - All the properties for the spread of infections can be controlled using the slider panel on the right.
 - Every individual starts as susceptible.
 
+![Screenshot 2025-04-16 161943](https://github.com/user-attachments/assets/8ca4cb3b-c60d-4b8c-b7b2-196ff70fe983)
 
  
 
