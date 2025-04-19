@@ -9,6 +9,6 @@
 - The simulation starts with one randomly infected agent and updates the infection status as agents move and collide within the infection radius.
 - A recording of the simulation is included below.
   
-https://github.com/Vrushall/Simulations/blob/main/Simulation.mp4
+![](https://github.com/Vrushall/Simulations/blob/main/Simulation.mp4)
  
 
